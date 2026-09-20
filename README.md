@@ -1,4 +1,4 @@
-<img width="468" height="194" alt="image" src="https://github.com/user-attachments/assets/f9c32fb1-2f59-4cd2-a0d1-c09af776d81c" /># E0095-P02: Dalla Pozza - Paediatric ALL E0200-P12 analysis
+/># An ensemble machine learning-derived proteomic signature improves risk stratification in pediatric B-cell precursor acute lymphoblastic leukemia
 [![Python](https://img.shields.io/badge/Python-3.13%2B-blue.svg)](https://www.python.org/downloads/)
 [![R](https://img.shields.io/badge/R-4.5.1%2B-blue.svg)](https://www.r-project.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
