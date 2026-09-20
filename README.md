@@ -1,4 +1,4 @@
-/># An ensemble machine learning-derived proteomic signature improves risk stratification in pediatric B-cell precursor acute lymphoblastic leukemia
+# An ensemble machine learning-derived proteomic signature improves risk stratification in pediatric B-cell precursor acute lymphoblastic leukemia
 [![Python](https://img.shields.io/badge/Python-3.13%2B-blue.svg)](https://www.python.org/downloads/)
 [![R](https://img.shields.io/badge/R-4.5.1%2B-blue.svg)](https://www.r-project.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
